@@ -36,5 +36,13 @@
 
     A brute-force attack involves a computer program systematically trying every possible combination of characters until it finds the correct password. The longer and more complex a password is, the longer this process takes—often making it unfeasible.
 
+  * Phishing:
+
+    This is a social engineering attack where a hacker tricks a user into revealing their password, often through a fake email or website that looks legitimate.
+
+  * Credential Stuffing:
+
+    Attackers use stolen username/password pairs from one data breach to try and log into other accounts, hoping the user has reused their password.
+
 In conclusion, a password's complexity and length are the primary defenses against these types of attacks. A strong password is a crucial first step in protecting your digital life.
 
